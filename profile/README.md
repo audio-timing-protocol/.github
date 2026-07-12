@@ -19,4 +19,4 @@ with sample-accurate synchronization.
 | [Orbit](https://github.com/audio-timing-protocol/orbit) | Node.js
 
 ## Specification
-See [SPECIFICATION.md](https://github.com/audio-timing-protocol/docs/SPECIFICATION.md) for ATPv1 protocol specification.
+See [SPECIFICATION.md](https://github.com/audio-timing-protocol/docs/blob/main/SPECIFICATION.md) for ATPv1 protocol specification.
